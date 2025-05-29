@@ -23,6 +23,6 @@ Thumbnail Download: Need the perfect visual representation? OneTuberBot allows y
 YouTube Tag Extraction: Unlock the secrets behind successful YouTube videos! With OneTuberBot, you can extract YouTube tags directly from any video. This invaluable feature is perfect for content creators looking to optimize their own videos, researchers analyzing trending topics, or anyone curious about how videos are categorized.
 How to Get Started with OneTuberBot:
 
-Getting started with OneTuberBot is incredibly simple. Just head over to T.me/onetuberBot on your Telegram app. Once there, follow the intuitive instructions to start downloading your favorite YouTube content in seconds.
+Getting started with OneTuberBot is incredibly simple. Just head over to https://t.me/OneTuberBot on your Telegram app. Once there, follow the intuitive instructions to start downloading your favorite YouTube content in seconds.
 
 Stop waiting for videos to buffer and start building your ultimate offline YouTube library today with OneTuberBot!
